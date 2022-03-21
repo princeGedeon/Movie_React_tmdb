@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Movie_React_tmdb/static/css/main.ae0c4585.css",
+    "main.js": "/Movie_React_tmdb/static/js/main.dae5be59.js",
+    "index.html": "/Movie_React_tmdb/index.html",
+    "static/media/index.cjs": "/Movie_React_tmdb/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.ae0c4585.css.map": "/Movie_React_tmdb/static/css/main.ae0c4585.css.map",
+    "main.dae5be59.js.map": "/Movie_React_tmdb/static/js/main.dae5be59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae0c4585.css",
+    "static/js/main.dae5be59.js"
+  ]
+}
